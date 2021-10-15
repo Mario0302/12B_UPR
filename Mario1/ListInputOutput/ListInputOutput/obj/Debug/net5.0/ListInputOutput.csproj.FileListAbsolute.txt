@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\Mario\ListInputOutput\ListInputOutput\bin\Debug\net5.0\ListInputOutput.exe
+C:\Users\Student\Desktop\Mario\ListInputOutput\ListInputOutput\bin\Debug\net5.0\ListInputOutput.deps.json
+C:\Users\Student\Desktop\Mario\ListInputOutput\ListInputOutput\bin\Debug\net5.0\ListInputOutput.runtimeconfig.json
+C:\Users\Student\Desktop\Mario\ListInputOutput\ListInputOutput\bin\Debug\net5.0\ListInputOutput.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Mario\ListInputOutput\ListInputOutput\bin\Debug\net5.0\ListInputOutput.dll
+C:\Users\Student\Desktop\Mario\ListInputOutput\ListInputOutput\bin\Debug\net5.0\ref\ListInputOutput.dll
+C:\Users\Student\Desktop\Mario\ListInputOutput\ListInputOutput\bin\Debug\net5.0\ListInputOutput.pdb
+C:\Users\Student\Desktop\Mario\ListInputOutput\ListInputOutput\obj\Debug\net5.0\ListInputOutput.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Mario\ListInputOutput\ListInputOutput\obj\Debug\net5.0\ListInputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Mario\ListInputOutput\ListInputOutput\obj\Debug\net5.0\ListInputOutput.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Mario\ListInputOutput\ListInputOutput\obj\Debug\net5.0\ListInputOutput.AssemblyInfo.cs
+C:\Users\Student\Desktop\Mario\ListInputOutput\ListInputOutput\obj\Debug\net5.0\ListInputOutput.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Mario\ListInputOutput\ListInputOutput\obj\Debug\net5.0\ListInputOutput.dll
+C:\Users\Student\Desktop\Mario\ListInputOutput\ListInputOutput\obj\Debug\net5.0\ref\ListInputOutput.dll
+C:\Users\Student\Desktop\Mario\ListInputOutput\ListInputOutput\obj\Debug\net5.0\ListInputOutput.pdb
+C:\Users\Student\Desktop\Mario\ListInputOutput\ListInputOutput\obj\Debug\net5.0\ListInputOutput.genruntimeconfig.cache

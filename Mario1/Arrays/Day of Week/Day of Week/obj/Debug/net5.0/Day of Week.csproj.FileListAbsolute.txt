@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\Mario\Day of Week\Day of Week\bin\Debug\net5.0\Day of Week.exe
+C:\Users\Student\Desktop\Mario\Day of Week\Day of Week\bin\Debug\net5.0\Day of Week.deps.json
+C:\Users\Student\Desktop\Mario\Day of Week\Day of Week\bin\Debug\net5.0\Day of Week.runtimeconfig.json
+C:\Users\Student\Desktop\Mario\Day of Week\Day of Week\bin\Debug\net5.0\Day of Week.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Mario\Day of Week\Day of Week\bin\Debug\net5.0\Day of Week.dll
+C:\Users\Student\Desktop\Mario\Day of Week\Day of Week\bin\Debug\net5.0\ref\Day of Week.dll
+C:\Users\Student\Desktop\Mario\Day of Week\Day of Week\bin\Debug\net5.0\Day of Week.pdb
+C:\Users\Student\Desktop\Mario\Day of Week\Day of Week\obj\Debug\net5.0\Day of Week.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Mario\Day of Week\Day of Week\obj\Debug\net5.0\Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Mario\Day of Week\Day of Week\obj\Debug\net5.0\Day of Week.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Mario\Day of Week\Day of Week\obj\Debug\net5.0\Day of Week.AssemblyInfo.cs
+C:\Users\Student\Desktop\Mario\Day of Week\Day of Week\obj\Debug\net5.0\Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Mario\Day of Week\Day of Week\obj\Debug\net5.0\Day of Week.dll
+C:\Users\Student\Desktop\Mario\Day of Week\Day of Week\obj\Debug\net5.0\ref\Day of Week.dll
+C:\Users\Student\Desktop\Mario\Day of Week\Day of Week\obj\Debug\net5.0\Day of Week.pdb
+C:\Users\Student\Desktop\Mario\Day of Week\Day of Week\obj\Debug\net5.0\Day of Week.genruntimeconfig.cache
